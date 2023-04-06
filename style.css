@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:  0;
+}
+.cabecalho{
+    background-escolha uma cor;
+    color: black;
+    font-size: medium;
+    display: flex;
+    justify-content:baseline;
+    
+}
+.cabecalho-imagem{
+    width: 10%;
+    height: 10%;
+    
+}
+.cabecalho-itens{
+margin: 50px 600px;
+display: inline-block;
+}    
